@@ -1,2 +1,2 @@
 # Chess-Review-Sentiment-Analysis-using-TF-IDF-Word2Vec-and-Machine-Learning
-A sentiment analysis project on chess reviews using TF-IDF and Word2Vec feature extraction with SVM, Random Forest, and MLP classifiers. The study compares model performance across different train-test splits and text representation techniques.
+This project explores sentiment classification of chess reviews using traditional machine learning techniques. Text data is transformed using TF-IDF and Word2Vec embeddings, then evaluated with Support Vector Machine (SVM), Random Forest (RF), and Multi-Layer Perceptron (MLP) classifiers. Performance is compared using different train-test splits to identify the most effective approach for sentiment prediction.
